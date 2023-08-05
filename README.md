@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhrao745&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhrao745" /> </p>
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Full Stack Web Development.**
 
 - 📫 How to reach me **saurabhrao745@gmail,com**
 
